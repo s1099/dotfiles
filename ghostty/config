@@ -1,0 +1,6 @@
+font-family = JetBrainsMono Nerd Font
+font-size = 13
+theme = BlulocoDark
+background-opacity = 0.75
+adjust-cell-height = 10%
+window-padding-balance = true
