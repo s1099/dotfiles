@@ -1,6 +1,12 @@
-font-family = JetBrainsMono Nerd Font
-font-size = 13
+font-family = Iosevka Nerd Font Mono
+font-size = 15
 theme = BlulocoDark
-background-opacity = 0.75
+background-opacity = 0.85
 adjust-cell-height = 10%
 window-padding-balance = true
+window-padding-x = 10
+desktop-notifications = true
+
+#gtk-titlebar = false
+#font-family = JetBrainsMono Nerd Font
+
